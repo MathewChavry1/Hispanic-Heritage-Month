@@ -138,10 +138,10 @@ Coffee Culture: Puerto Rico has a rich coffee culture, and its coffee is known f
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Hjf-sH-xL5">
-                                <rect key="frame" x="46" y="470" width="300" height="200"/>
+                                <rect key="frame" x="46" y="470" width="300" height="286"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Arroz con Gandules is a traditional Puerto Rican dish that is not only delicious but also holds a special place in Puerto Rican cuisine. It's often considered a staple at holiday gatherings and other celebrations. Here's a description of this flavorful dish:</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -178,7 +178,7 @@ Coffee Culture: Puerto Rico has a rich coffee culture, and its coffee is known f
                                 <rect key="frame" x="59" y="401" width="300" height="300"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Arroz con Gandules is a traditional Puerto Rican dish that is not only delicious but also holds a special place in Puerto Rican cuisine. It's often considered a staple at holiday gatherings and other celebrations. Here's a description of this flavorful dish:</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -229,6 +229,14 @@ Coffee Culture: Puerto Rico has a rich coffee culture, and its coffee is known f
                                 <rect key="frame" x="38" y="199" width="317" height="249"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xB2-AM-C6m">
+                                <rect key="frame" x="46" y="339" width="300" height="600"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">Puerto Rico is an island archipelago in the northeastern Caribbean Sea, located at approximately 18.2 degrees North latitude and 66.5 degrees West longitude. It features diverse topography, including mountainous terrain in the central and western regions, extensive coastlines with picturesque beaches, and lush rainforests like El Yunque National Forest. The island's strategic position in the Caribbean has historically influenced its cultural and economic significance.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="bfw-FX-ceS"/>
                         <color key="backgroundColor" systemColor="systemGrayColor"/>
